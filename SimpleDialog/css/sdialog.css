@@ -63,8 +63,7 @@ html.sdialog-scrollLock, body.sdialog-scrollLock {
 }
 
 body.sdialog-active .sdialog-overlay {
-	opacity: 1;
-	background: #f00;
+	opacity: 0.7;
 }
 
 .sdialog-body, .sdialog-overlay:after {
